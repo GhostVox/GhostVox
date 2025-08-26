@@ -38,16 +38,16 @@
 
 ### Backend Web Development
 <p align="left">
-  <img src="https://api.boot.dev/v1/users/public/12810a83-00ff-4198-b18c-13955b1ec12b/thumbnail" alt="Boot.dev Progress" width="400">
+  <img src="https://api.boot.dev/v1/users/public/12810a83-00ff-4198-b18c-13955b1ec12b/thumbnail" alt="Boot.dev Progress" width="300">
 </p>
 
 ### Full Stack JavaScript Development
 <p align="left">
-  <img src="https://www.theodinproject.com/assets/og-logo-2bdf3a30.png" alt="The Odin Project" width="400">
+  <img src="https://www.theodinproject.com/assets/og-logo-2bdf3a30.png" alt="The Odin Project" width="300">
 </p>
 
 ### Bachelor's Degree - In Progress
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/WGU-Marketing-logo.png" alt="Western Governors University Logo" width="400">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/WGU-Marketing-logo.png" alt="Western Governors University Logo" width="300">
 </p>
 
