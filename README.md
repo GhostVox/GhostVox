@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hello!
+- I'm currently working on crackle, a cli tool to solve the wordle of the day.
+- I'm currently attend Western Governers University to obtain a Bachlors of Computer Science.
+- You can reach me at ghostvox@icloud.com
+- 
 
 <!--
 **GhostVox/GhostVox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
