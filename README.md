@@ -3,12 +3,15 @@
 - I'm currently attend Western Governers University to obtain a Bachlors of Computer Science.
 - You can reach me at ghostvox@icloud.com
 ## Languages
+<div style="display:flex; flex-direction:row>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width=100>
-
-<img src="postgreSql](https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" width=50>
-<img src="https://github.com/twbs/icons/blob/main/icons/arrow-down.svg" width=100>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width=50>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width=50>
+</div>
+<img src="postgreSql](https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" width=50>
+<img src="https://github.com/twbs/icons/blob/main/icons/arrow-down.svg" width=100>
+
+
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GoLang.svg" width=50>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width=50>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Rust.svg" width=50>
