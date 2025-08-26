@@ -5,12 +5,13 @@
 ## Languages
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width=100>
 
-![postgreSql](https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg)
-![javascript](https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg)
-![CSS](https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg)
-![Golang](https://github.com/tandpfun/skill-icons/blob/main/icons/GoLang.svg)
-![python](https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg)
-![Rust](https://github.com/tandpfun/skill-icons/blob/main/icons/Rust.svg)
+<img src="postgreSql](https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" width=50>
+<img src="https://github.com/twbs/icons/blob/main/icons/arrow-down.svg" width=100>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width=50>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width=50>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GoLang.svg" width=50>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width=50>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Rust.svg" width=50>
 
 <!--
 **GhostVox/GhostVox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
