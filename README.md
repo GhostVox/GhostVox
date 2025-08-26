@@ -3,8 +3,8 @@
 - I'm currently attend Western Governers University to obtain a Bachlors of Computer Science.
 - You can reach me at ghostvox@icloud.com
 ## Languages
-![html](https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg)
-![arrow](https://github.com/twbs/icons/blob/main/icons/arrow-down.svg)
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width=100>
+
 ![postgreSql](https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg)
 ![javascript](https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg)
 ![CSS](https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg)
