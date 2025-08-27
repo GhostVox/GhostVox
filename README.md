@@ -35,22 +35,38 @@
 </p>
 
 ## Learning Resources
-
-### Backend Web Development
-<p align="left">
-  <img src="https://api.boot.dev/v1/users/public/12810a83-00ff-4198-b18c-13955b1ec12b/thumbnail" alt="Boot.dev Progress" width="300">
-</p>
-<a href="https://www.boot.dev">Boot.Dev</a>
-
-### Full Stack JavaScript Development
-<p align="left">
-  <img src="https://www.theodinproject.com/assets/og-logo-2bdf3a30.png" alt="The Odin Project" width="300">
-</p>
-<a href="https://www.theodinproject.com/">The Odin Project</a>
-
-### Bachelor's Degree - In Progress
-<p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/WGU-Marketing-logo.png" alt="Western Governors University Logo" width="300">
-</p>
-<a href="https://www.wgu.edu/">Western Governors University</a>
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <h3>Backend Web Development</h3>
+      <p align="center">
+        <a href="https://www.boot.dev">
+          <img src="https://api.boot.dev/v1/users/public/12810a83-00ff-4198-b18c-13955b1ec12b/thumbnail" alt="Boot.dev Progress" width="300">
+        </a>
+        <br/>
+        <a href="https://www.boot.dev">Boot.Dev</a>
+      </p>
+    </td>
+    <td valign="top" width="33%">
+      <h3>Full Stack JavaScript Development</h3>
+      <p align="center">
+        <a href="https://www.theodinproject.com/">
+          <img src="https://www.theodinproject.com/assets/og-logo-2bdf3a30.png" alt="The Odin Project" width="300">
+        </a>
+        <br/>
+        <a href="https://www.theodinproject.com/">The Odin Project</a>
+      </p>
+    </td>
+    <td valign="top" width="33%">
+      <h3>Bachelor's Degree - In Progress</h3>
+      <p align="center">
+        <a href="https://www.wgu.edu/">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/WGU-Marketing-logo.png" alt="Western Governors University Logo" width="300">
+        </a>
+        <br/>
+        <a href="https://www.wgu.edu/">Western Governors University</a>
+      </p>
+    </td>
+  </tr>
+</table>
 
