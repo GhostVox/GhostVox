@@ -35,38 +35,58 @@
 </p>
 
 ## Learning Resources
-<table>
-  <tr>
-    <td valign="top" width="33%">
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr align="center">
+    <td width="33%" valign="top">
       <h3>Backend Web Development</h3>
-      <p align="center">
-        <a href="https://www.boot.dev">
-          <img src="https://api.boot.dev/v1/users/public/12810a83-00ff-4198-b18c-13955b1ec12b/thumbnail" alt="Boot.dev Progress" width="300">
-        </a>
-        <br/>
-        <a href="https://www.boot.dev">Boot.Dev</a>
-      </p>
+      <table border="0" cellpadding="10" cellspacing="0">
+        <tr>
+          <td height="170" align="center" valign="middle">
+            <a href="https://www.boot.dev">
+              <img src="https://api.boot.dev/v1/users/public/12810a83-00ff-4198-b18c-13955b1ec12b/thumbnail" alt="Boot.dev Progress" width="300">
+            </a>
+          </td>
+        </tr>
+        <tr>
+          <td align="center" valign="top">
+            <a href="https://www.boot.dev">Boot.Dev</a>
+          </td>
+        </tr>
+      </table>
     </td>
-    <td valign="top" width="33%">
+    <td width="33%" valign="top">
       <h3>Full Stack JavaScript Development</h3>
-      <p align="center">
-        <a href="https://www.theodinproject.com/">
-          <img src="https://www.theodinproject.com/assets/og-logo-2bdf3a30.png" alt="The Odin Project" width="300">
-        </a>
-        <br/>
-        <a href="https://www.theodinproject.com/">The Odin Project</a>
-      </p>
+      <table border="0" cellpadding="10" cellspacing="0">
+        <tr>
+          <td height="170" align="center" valign="middle">
+            <a href="https://www.theodinproject.com/">
+              <img src="https://www.theodinproject.com/assets/og-logo-2bdf3a30.png" alt="The Odin Project" width="300">
+            </a>
+          </td>
+        </tr>
+        <tr>
+          <td align="center" valign="top">
+            <a href="https://www.theodinproject.com/">The Odin Project</a>
+          </td>
+        </tr>
+      </table>
     </td>
-    <td valign="top" width="33%">
+    <td width="33%" valign="top">
       <h3>Bachelor's Degree - In Progress</h3>
-      <p align="center">
-        <a href="https://www.wgu.edu/">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/WGU-Marketing-logo.png" alt="Western Governors University Logo" width="300">
-        </a>
-        <br/>
-        <a href="https://www.wgu.edu/">Western Governors University</a>
-      </p>
+      <table border="0" cellpadding="10" cellspacing="0">
+        <tr>
+          <td height="170" align="center" valign="middle">
+            <a href="https://www.wgu.edu/">
+              <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/WGU-Marketing-logo.png" alt="Western Governors University Logo" width="300">
+            </a>
+          </td>
+        </tr>
+        <tr>
+          <td align="center" valign="top">
+            <a href="https://www.wgu.edu/">Western Governors University</a>
+          </td>
+        </tr>
+      </table>
     </td>
   </tr>
 </table>
-
